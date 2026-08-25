@@ -53,7 +53,8 @@
 ### 3. Соціальне розшарування за регіонами (Квінтильний коефіцієнт)
 Показник вимірює співвідношення загальних доходів 20% найбагатшого населення до 20% найбіднішого (коефіцієнт фондів).
 
-<img width="1425" height="1457" alt="Book6-Tableau-Public-08-25-2026_06_10_PM" src="https://github.com/user-attachments/assets/f3b619ae-598f-4b46-8664-d624d89d321b" />
+<img width="1398" height="1456" alt="Book6-Tableau-Public-08-25-2026_06_14_PM" src="https://github.com/user-attachments/assets/4d0dc093-e9a8-409a-9023-3df21d28cb59" />
+
 
 
 #### Ключові висновки:
